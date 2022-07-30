@@ -1,0 +1,7 @@
+This field should show Genres as the placeholder text. And when a user clicks on the text field for Movies Name the placeholder text must go above the select field. 
+
+On clicking this field, a list of all the genres available, along with checkboxes to select genres, should be displayed. You can obtain this information from the state variable that stores the property ‘genre’. You must use the Select component of Material-UI for this.
+
+You must use the MenuItem and Checkbox components of Material-UI to show the list of genres. 
+
+Users can select multiple genres under this filter.
